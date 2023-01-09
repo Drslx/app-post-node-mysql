@@ -1,0 +1,8 @@
+<h1>Lista de postagens: </h1>
+
+{{#each posts}}
+  <h2>{{titulo}}</h2>
+  <p>{{conteudo}}</p>
+  <a href="/deletar/{{id}}"><button>Deletar</button></a>
+  <hr />
+{{/each}}
