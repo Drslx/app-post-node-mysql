@@ -7,3 +7,8 @@ sequelize,
 mysql2, 
 express-handlebars,
 body-parser,
+
+
+## Rodar o banco de dados
+
+## Rodar o node
